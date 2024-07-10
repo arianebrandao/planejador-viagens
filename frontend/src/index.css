@@ -6,3 +6,7 @@
     /* setar largura default para todos os navegadores */
     min-width: 0;
 }
+
+input {
+    color-scheme: dark;
+}
