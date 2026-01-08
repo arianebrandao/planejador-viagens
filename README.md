@@ -14,7 +14,7 @@ O projeto é um site desktop para montar planos de viagem com amigos, registrar 
 
 ## Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/design/UGfrAIc1rsMQ9LmrGszRkS/NLW-Journey-%E2%80%A2-Planejador-de-viagem-(Community)). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/design/WEWZgHLC0LtI1XweT3Pzek/NLW-Journey-%E2%80%A2-Planejador-de-viagem--Community---Copy-). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 ## Tecnologias Front-End
 
