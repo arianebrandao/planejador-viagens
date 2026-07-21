@@ -2,12 +2,6 @@
   <img alt="Planejador de Viagens - plann.er" src=".github/app.jpg" width="100%">
 </p>
 
-## 🚀 NLW Journey 2024
-
-Esse projeto foi desenvolvido durante o evento NLW Journey 2024 da RocketSeat.
-O objetivo do evento é desenvolver uma aplicação completa, desde o back-end em Node.js, front-end para web em ReactJS,
-front-end mobile em React Native.
-
 ## Planejador de Viagens - Plann.er
 
 O projeto é um site desktop para montar planos de viagem com amigos, registrar atividades e links úteis.
